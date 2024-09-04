@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Playing VALORANT"];
+const statusMessages = ["Made by cen2acc","DM cen2acc if you see problems with this bot"];
 
 
 let currentIndex = 0;
